@@ -1,1 +1,14 @@
 https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FMADHUR%2Ffinal%2Breport%2Bon%2B6%2Bjan%2B2023
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FMADHUR%2FNew%2Bdashboard&action=view&mode=dashboard
+https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FMADHUR%2FNew%2Breport%2B6%2Bjan%2B2023
+https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FMADHUR%2FNo%2BOf%2BScenes%2BOf%2BStory%2B6%2Bjan%2B2023&action=view&mode=dashboard
+https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FMADHUR%2FNo%2BOf%2BScenes%2BOf%2BStory%2B6%2Bjan%2B2023&action=view&mode=dashboard
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FMADHUR%2FAnalysis%2BOn%2BOverall%2BSustainability%2BIndustry%252C%2BInnovation%2BAnd%2BInfrastructure%2B6%2Bjan%2B2023
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FMADHUR%2FAnalysis%2BOn%2BOverall%2BSustainability%2BLife%2BBelow%2BWater%2B6%2Bjan%2B2023
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FMADHUR%2FAnalysis%2BOn%2BOverall%2BSustainability%2BLife%2BOn%2BLand%2B6%2Bjan%2B2023
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FMADHUR%2FAnalysis%2BOn%2BOverall%2BSustainability%2BOn%2BNo%2BPoverty%2B6%2BJan%2B2023
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FMADHUR%2FAnalysis%2BOn%2BOverall%2BSustainability%2BPartnerships%2BFor%2BThe%2BGoals%2B6%2Bjan%2B2023
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FMADHUR%2FAnalysis%2BOn%2BOverall%2BSustainability%2BReduced%2BInequalities%2B6%2Bjan%2B2023
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FMADHUR%2FAnalysis%2BOverall%2BSustainability%2BOn%2BQuality%2BEducation%2B6%2Bjan%2B2023
+https://us1.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2FMADHUR%2Fdata%2Bmodulr%2B6%2Bjan
+https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FMADHUR%2Ffinal%2Breport%2Bon%2B6%2Bjan%2B2023
